@@ -1,2 +1,4 @@
 # Visual-Localization Project
-This project is aims to use single image based  visual localization
+##Change log
+8/10 Cmake the KinectFusionLib for libs.Test Struct_From_Motion 
+
