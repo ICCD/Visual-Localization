@@ -11,5 +11,8 @@
 scene.ply:(shotcut) <br>
 <img src="https://github.com/ICCD/Visual-Localization/blob/master/DataSet-example/PLYshotcut.png" width="640"  alt="图片加载失败"/>
 <br>
-pose.txt <br>
- 4*4 Matrix
+frame-000149.pose.txt <br>
+  **4*4 Matrix**   <br><br>
+frame-000149.depth.png
+ ## Problem 
+ 
