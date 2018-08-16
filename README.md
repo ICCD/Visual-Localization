@@ -16,5 +16,6 @@ frame-000149.pose.txt <br>
 frame-000149.depth.png
  ## Problem 
  How about the method of convert ply(or obj) to image
- 
+ the related code [shape_net_render](https://github.com/panmari/stanford-shapenet-renderer) with python <br>
+ Next step :how to use GAN to create Image
  
