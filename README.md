@@ -1,6 +1,7 @@
 # Visual-Localization Project
 ## Change log <br>
-8/10  Cmake the KinectFusionLib for libs.Test Struct_From_Motion 
+/8/10  Cmake the KinectFusionLib for libs.Test Struct_From_Motion <br>
+8/21   coding base on kinectFusionApp,aims to provide a image with a pose
 ## Prepare Data
 **libKinectFusion:** Complie the KinectFusionLib in the Ubuntu14.04 ,upload the file to github <br>
 **Bundle Fusion:**      Download the ply,jpg,pose.txt file from  [bundlefusion project](http://graphics.stanford.edu/projects/bundlefusion/index.html) <br>
