@@ -4,8 +4,7 @@
 8/21   coding base on kinectFusionApp,aims to provide a image with a pose<br>
 9/3  fixed the config bug.prepare to reinstall OpenCV Lib<br>
 **Bug log:**<br>
-OpenCV Error: Gpu API call (invalid device function) in pyrDown_caller, file /home/xueyu/opencv-3.4.0/modules/cudawarping/src/cuda/pyr_down.cu, line 184
-terminate called after throwing an instance of 'cv::Exception'what():  /home/xueyu/opencv-3.4.0/modules/cudawarping/src/cuda/pyr_down.cu:184: error: (-217) invalid device function in function pyrDown_caller
+
 
 ## Prepare Data
 **libKinectFusion:** Complie the KinectFusionLib in the Ubuntu14.04 ,upload the file to github <br>
