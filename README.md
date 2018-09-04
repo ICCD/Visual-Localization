@@ -4,10 +4,11 @@
 8/21   coding base on kinectFusionApp,aims to provide a image with a pose<br>
 9/3  fixed the config bug.prepare to reinstall OpenCV Lib<br>
 9/4  run the app based on KinectFusionLib,use the bundle fusion image instead of camera<br>
+**Bug log:**<br>
 bug 1:app can't read all image<br>
 bug 2:output mesh file<br>
 <img src="https://github.com/ICCD/Visual-Localization/blob/master/1781902426.jpg" width="480"  alt="图片加载失败"/><br>
-**Bug log:**<br>
+
 
 
 ## Prepare Data
