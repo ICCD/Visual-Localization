@@ -4,6 +4,8 @@
 8/21   coding base on kinectFusionApp,aims to provide a image with a pose<br>
 9/3  fixed the config bug.prepare to reinstall OpenCV Lib<br>
 9/4  run the app based on KinectFusionLib,use the bundle fusion image instead of camera<br>
+9/9  output mesh ply. one file for example upload to git.
+
 **Bug log:**<br>
 bug 1:app can't read all image<br>
 bug 2:output mesh file<br>
