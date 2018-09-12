@@ -8,7 +8,7 @@
 
 **Bug log:**<br>
 bug 1:app can't read all image<br>
-bug 2:output mesh file<br>
+not look like out of memory <br>
 <img src="https://github.com/ICCD/Visual-Localization/blob/master/1781902426.jpg" width="480"  alt="图片加载失败"/><br>
 
 
