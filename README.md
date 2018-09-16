@@ -32,6 +32,12 @@ frame-000149.depth.png
  ## Problem 
  How about the method of convert ply(or obj) to image
  the related code [shape_net_render](https://github.com/panmari/stanford-shapenet-renderer) with python <br>
- Next step :how to use GAN to create Image
+ Next step :how to use GAN to create Image<br>
+ ## Related Work
+ http://openaccess.thecvf.com/content_ECCV_2018/papers/Fabian_Manhardt_Deep_Model-Based_6D_ECCV_2018_paper.pdf <br>
+ https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf <br>
+ https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#CVPR18 <br>
+ 
+ 
  
  
